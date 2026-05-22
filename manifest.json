@@ -1,15 +1,16 @@
 {
   "name": "Order Field App",
   "short_name": "Orders",
-  "start_url": "index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f7f8fc",
   "theme_color": "#f7f8fc",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/3500/3500835.png",
+      "src": "icon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
